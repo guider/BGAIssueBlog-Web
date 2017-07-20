@@ -6,11 +6,11 @@ import { makeAction } from '../util'
 const SET_GITHUB_USER = 'SET_GITHUB_USER'
 
 const state = {
-  gitHubUsername: 'bingoogolapple',
-  weiBoUsername: 'bingoogol',
+  gitHubUsername: 'likonion',
+  weiBoUsername: 'likozhang',
   gitHubUser: null,
-  showQQGroup: true,
-  gitBookUrl: 'https://bingoogolapple.gitbooks.io/bgalearningnotes-git/content'
+  showQQGroup: true
+  // gitBookUrl: 'https://bingoogolapple.gitbooks.io/bgalearningnotes-git/content'
 }
 
 const mutations = {
